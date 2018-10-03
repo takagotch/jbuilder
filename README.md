@@ -32,7 +32,7 @@ end
   "": []
 }
 ```
-```
+```ruby
 json.set! :author do
   json.set! :name, 'tky'
 end
